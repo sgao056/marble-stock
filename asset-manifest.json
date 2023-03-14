@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marble-stock/static/css/main.367a12e3.chunk.css",
+    "main.js": "/marble-stock/static/js/main.fc2d62fa.chunk.js",
+    "main.js.map": "/marble-stock/static/js/main.fc2d62fa.chunk.js.map",
+    "runtime-main.js": "/marble-stock/static/js/runtime-main.1ede5c34.js",
+    "runtime-main.js.map": "/marble-stock/static/js/runtime-main.1ede5c34.js.map",
+    "static/css/2.a08119d7.chunk.css": "/marble-stock/static/css/2.a08119d7.chunk.css",
+    "static/js/2.04baabcc.chunk.js": "/marble-stock/static/js/2.04baabcc.chunk.js",
+    "static/js/2.04baabcc.chunk.js.map": "/marble-stock/static/js/2.04baabcc.chunk.js.map",
+    "index.html": "/marble-stock/index.html",
+    "static/css/2.a08119d7.chunk.css.map": "/marble-stock/static/css/2.a08119d7.chunk.css.map",
+    "static/css/main.367a12e3.chunk.css.map": "/marble-stock/static/css/main.367a12e3.chunk.css.map",
+    "static/js/2.04baabcc.chunk.js.LICENSE.txt": "/marble-stock/static/js/2.04baabcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ede5c34.js",
+    "static/css/2.a08119d7.chunk.css",
+    "static/js/2.04baabcc.chunk.js",
+    "static/css/main.367a12e3.chunk.css",
+    "static/js/main.fc2d62fa.chunk.js"
+  ]
+}
