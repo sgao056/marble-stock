@@ -1,6 +1,6 @@
 {
   "name": "marble-stock",
-  "homepage": "http://sgao056.github.io/marble-stock",
+  "homepage": "https://sgao056.github.io/marble-stock",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,6 +45,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^5.0.0"
   }
 }
