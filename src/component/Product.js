@@ -67,8 +67,8 @@ export class Product extends Component {
                     </div>
                    <div className="img-wrapper">
                         <div className="out-stock-text">Out of stock</div>
-                        <figure className="image is-4by3">
-                            <img src={image} alt={name} />
+                        <figure className="image is-4by3" style={{height:"100%",width:"100%",marginTop:"20px",display:"flex",justifyContent:"start"}}>
+                            <img src={image} alt={name} style={{height:"100%",width:"100%"}}/>
                         </figure>
                     </div>
                     <p className="p-tags">{tags}</p>

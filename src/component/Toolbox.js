@@ -23,7 +23,7 @@ export class Toolbox extends Component {
     render() {
         return (
             <div className='tool-box'>
-                <div className="logo-text">Store</div>
+                <div className="logo-text">Stock</div>
                     <div className="search-box">
                         <div className="field has-addons">
                             <div className="control">
